@@ -1,0 +1,7 @@
+aside.logo {
+    background-color: var(--bg-dark);
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    
+}
